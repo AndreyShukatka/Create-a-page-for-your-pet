@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body {
+    background-color: aqua;
+    font-family: Pacifico;
+    text-align: center;
+    font-weight: normal;
+}
+.photo {
+    height: 200px;
+    width: 200px;
+}
